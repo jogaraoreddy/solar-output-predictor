@@ -1,10 +1,9 @@
 # ☀️ AI-Powered Solar Output Predictor
 
 🚧 **Status**: In Progress  
-📅 **ETA**: July 10, 2025  
-🔗 **Live App (beta)**: [Click here](https://jogaraoreddy-solar-output-predictor.streamlit.app)
-
----
+📅 **ETA**: April 15, 2025  
+🔗 **Live App (beta)**: [LinkedIn](https://solar-output-predictor.streamlit.app) 
+----
 
 ## 🔍 Overview
 This project predicts solar energy output based on weather forecasts and location using machine learning. It’s designed to assist solar energy planners, installers, and end users to estimate daily solar generation based on real-time environmental data.
@@ -30,7 +29,7 @@ This project predicts solar energy output based on weather forecasts and locatio
 ---
 
 ## 🚀 Live Demo
-👉 **[Try the Live App (beta)](https://jogaraoreddy-solar-output-predictor.streamlit.app)**  
+👉 **[Try the Live App (beta)](https://solar-output-predictor.streamlit.app/)**  
 Note: Currently in development. Placeholder UI is active.
 
 ---
@@ -44,14 +43,20 @@ solar-output-predictor/
 ├── requirements.txt # Python dependencies
 └── README.md
 
-
 ---
 
 ## 👨‍💻 Author
 - **Jogarao Reddy**  
   - Full-stack & Python developer | ML Enthusiast  
   - 🔗 [LinkedIn](https://linkedin.com/in/jogarao-reddy) | [GitHub](https://github.com/jogaraoreddy)
-
+## 👨‍💻 
+- **Harish Mungara**  
+  - Project Director | Energy Systems Analyst | Solar Domain Expert | AI Enthusiast
+  - 🔗   [LinkedIn](https://linkedin.com/in/harish-mungara-015376137) | [GitHub](https://github.com/harish-mungara) 
+- **Revanth M**
+  - Data Analyst | ML Enthusiast
+  - 🔗 [LinkedIn](https://linkedin.com/in/revanth-m-67966a267) | [GitHub](https://github.com/Revanthezio)
+  - 
 ---
 
 ## 📝 License
