@@ -45,11 +45,10 @@ solar-output-predictor/
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻  TEAM 
 - **Jogarao Reddy**  
   - Full-stack & Python developer | ML Enthusiast  
   - 🔗 [LinkedIn](https://linkedin.com/in/jogarao-reddy) | [GitHub](https://github.com/jogaraoreddy)
-## 👨‍💻 
 - **Harish Mungara**  
   - Project Director | Energy Systems Analyst | Solar Domain Expert | AI Enthusiast
   - 🔗   [LinkedIn](https://linkedin.com/in/harish-mungara-015376137) | [GitHub](https://github.com/harish-mungara) 
