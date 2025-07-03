@@ -1,7 +1,7 @@
 # ☀️ AI-Powered Solar Output Predictor
 
 🚧 **Status**: In Progress (ETA: July 10, 2025)  
-🔗 **Live App (beta)**: 
+🔗 **Live App (beta)**: [Streamlit App]((https://solar-output-predictor.streamlit.app/))  
 📁 **GitHub Repo**: You are here!
 
 ---
