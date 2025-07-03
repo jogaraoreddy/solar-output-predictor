@@ -2,7 +2,6 @@
 
 🚧 **Status**: In Progress  
 📅 **ETA**: April 15, 2025  
-🔗 **Live App (beta)**: [LinkedIn](https://solar-output-predictor.streamlit.app) 
 ----
 
 ## 🔍 Overview
